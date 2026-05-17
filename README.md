@@ -5,5 +5,6 @@ Today Topic Covered:<br>
 -Data Types<br>
 -Operators<br>
 -Loops<br>
-20 Queston practice of Variable
+-20 Queston practice of Variable<br>
+-20 Queston practice of Datatypes<br>
 
