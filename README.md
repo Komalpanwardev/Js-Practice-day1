@@ -9,3 +9,4 @@ Today Topic Covered:<br>
 -20 Queston practice of Datatypes<br>
 - 10question practice of function<br>
 -Practice 15 Question of Strings<br>
+-10question practice of Array<br>
