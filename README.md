@@ -7,4 +7,5 @@ Today Topic Covered:<br>
 -Loops<br>
 -20 Queston practice of Variable<br>
 -20 Queston practice of Datatypes<br>
-- 10question practice of function
+- 10question practice of function<br>
+-Practice 15 Question of Strings<br>
