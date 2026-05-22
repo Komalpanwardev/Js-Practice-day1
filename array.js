@@ -50,3 +50,10 @@ console.log(order.sort());
 let number = [10,20,30,40,50];
 let ele = number.slice(1,4);
 console.log(ele);
+
+// Real world problem
+// Problem: Find Duplicate Elements in an Array
+
+// Write a JavaScript program that finds all duplicate elements from an array and returns them in a new array.
+
+// solution 1 - Using Set

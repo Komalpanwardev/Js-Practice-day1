@@ -157,3 +157,57 @@ console.log("I am learning " + course);
 // console.log(`I am ${age} years old.`);
 // console.log(`I live in ${city}`);
 // console.log(`I am learning ${course}`);
+
+// again practice from basic 
+
+let studentName = "komal";
+let studentage = 22;
+let mycourse = "mca";
+let isPlaced = true;
+
+console.log(studentName);
+console.log(studentage);
+console.log(mycourse);
+console.log("isPlaced");
+
+console.log(typeof studentName);
+console.log(typeof studentage);
+console.log(typeof nycourse);
+console.log( typeof isPlaced);
+
+// Apna naam variable mein store karo 
+let Name= "komal";
+console.log(Name);
+
+// Apni age store karo
+let Age = 22;
+console.log(Age);
+
+// Ek boolean variable banao
+let isEat= true;
+console.log(isEat);
+
+
+// Undefined variable banao 
+let salary;
+console.log(salary);
+
+// Null variable banao
+let mobile = null;
+console.log(mobile);
+
+// const variable bana kar change karne ki try karo
+const City= "delhi";
+City="shamli";
+console.log(City);
+
+// let a1 = "komal";
+// let b1 = 22;
+// let c1 = "true"
+// let d1 = 1346554545465;
+// let e1 = null;
+
+// console.log(a1);
+
+let MyCity= "shamli"
+console.log(MyCity);
