@@ -197,9 +197,9 @@ let mobile = null;
 console.log(mobile);
 
 // const variable bana kar change karne ki try karo
-const City= "delhi";
-City="shamli";
-console.log(City);
+// const City= "delhi";
+// City="shamli";
+// console.log(City);
 
 // let a1 = "komal";
 // let b1 = 22;
@@ -209,5 +209,50 @@ console.log(City);
 
 // console.log(a1);
 
-let MyCity= "shamli"
-console.log(MyCity);
+// let MyCity= "shamli"
+// console.log(MyCity);
+
+// Project 1:- student bio generator
+let name1 = "komal";
+let age1 = 22;
+let city1 = "gurugao";
+let course1 = "mernstack";
+ let bio = `My name is ${name1} andI am ${age1} years old`;
+ console.log(bio);
+
+//  Project 2 :- BMI CALCULATER
+let height = 5.2;
+let weight = 52;
+let bmi = weight/(height*height
+);
+console.log(`your bmi id ${bmi}`);
+
+// Project 3 :- age checker
+let age2 = 14;
+if(age2>=18){
+    console.log("Adult");
+}else{
+    console.log("minor");
+}
+
+// project 4:- type checker tool
+
+let value_ = "komal";
+if(typeof value_ === "string"){
+    console.log("this is a string");
+}else if(typeof value_ ==="number"){
+    console.log("this is a number");
+}else if(typeof value_ ==="boolean"){
+    console.log("this is  a boolean");
+}else{
+    console.log("unknown data type");
+}
+
+// project 5 :- simple expence tracter
+
+let salary1 = 100000;
+let expence= 50000;
+let saving = salary1-expence;
+console.log(`your salary is ${salary1}`);
+console.log(`your expence is ${expence}`);
+console.log(`your saving are ${saving}`);
